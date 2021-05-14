@@ -1,0 +1,11 @@
+{
+  "name": "stellarquest2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bignumber.js": "^9.0.1",
+    "lodash": "^4.17.21",
+    "stellar-sdk": "^8.1.1"
+  }
+}
